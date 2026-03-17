@@ -2,7 +2,7 @@
 #SingleInstance Force
 
 ; ╔══════════════════════════════════════════════════╗
-; ║         BATTERY MONITOR  by Claude               ║
+; ║         BATTERY MONITOR  by Varun                ║
 ; ║  - Continuous beep until condition resolves      ║
 ; ║  - No annoying popups                            ║
 ; ║  - Custom sound support (.wav)                   ║
