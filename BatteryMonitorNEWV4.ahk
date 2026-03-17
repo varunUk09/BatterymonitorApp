@@ -27,7 +27,7 @@ global STARTUP     := Integer(ReadReg("Startup",    0))
 
 global low_active      := false
 global high_active     := false
-global g_health_pct    := 0      ; cached battery health %, fetched once on startup
+global g_health_pct    := 0      ; cached battery health % , fetched once on startup
 
 ; ── Shared WMI connection (fast, reused) ─────────────
 global g_wmi_svc := ""
